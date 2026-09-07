@@ -1,4 +1,4 @@
 # App Updates
 
-Public update metadata for LuxuryPanda apps.
+Public update metadata for custom apps.
 
