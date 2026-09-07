@@ -1,0 +1,6 @@
+{
+  "version": "2.0.3",
+  "releasedAt": "2026-09-02",
+  "notes": "### Changed\n- Expanded Firebase testers support with device-scoped endpoint.",
+  "downloads": {}
+}
