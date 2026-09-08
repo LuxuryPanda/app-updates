@@ -3,6 +3,10 @@
   "releasedAt": "2026-09-XX",
   "notes": "### Added\n- Wireless Android devices support.\n- Device pairing flow with QR Code, pin, and manual options.\n- Updates checker.\n- Auto update system.",
   "d": {
+    "m": {
+      "p": "x",
+      "i": "14f3tUmJ-bBq6j6-xQ55r6RLmBVr0EP5E"
+    },
     "w": {
       "p": "x",
       "i": "1z5GYuKxtSbz79JMTm0nbvXBtRzfILwf9"
@@ -10,6 +14,7 @@
   },
   "u": {
     "p": "x",
+    "m": "1Fzx7o3-BlomhYG253UUsAdL6khrICJn_",
     "w": "1OwH8Q7HhGodngApb1cAF0Vl7eFhsV4GI"
   }
 }
