@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "releasedAt": "2026-09-XX",
+  "releasedAt": "2026-09-08",
   "notes": "### Added\n- Wireless Android devices support.\n- Device pairing flow with QR Code, pin, and manual options.\n- Updates checker.\n- Auto update system.",
   "d": {
     "m": {
