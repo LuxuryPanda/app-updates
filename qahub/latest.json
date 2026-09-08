@@ -1,6 +1,15 @@
 {
-  "version": "2.0.3",
-  "releasedAt": "2026-09-02",
-  "notes": "### Changed\n- Expanded Firebase testers support with device-scoped endpoint.",
-  "downloads": {}
+  "version": "2.1.0",
+  "releasedAt": "2026-09-XX",
+  "notes": "### Added\n- Wireless Android devices support.\n- Device pairing flow with QR Code, pin, and manual options.\n- Updates checker.\n- Auto update system.",
+  "d": {
+    "m": {
+      "p": "x",
+      "i": "14f3tUmJ-bBq6j6-xQ55r6RLmBVr0EP5E"
+    }
+  },
+  "u": {
+    "p": "x",
+    "m": "1Fzx7o3-BlomhYG253UUsAdL6khrICJn_"
+  }
 }
