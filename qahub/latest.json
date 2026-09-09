@@ -1,15 +1,15 @@
 {
-  "version": "2.1.0",
-  "releasedAt": "2026-09-08",
-  "notes": "### Added\n- Wireless Android devices support.\n- Device pairing flow with QR Code, pin, and manual options.\n- Updates checker.\n- Auto update system.",
+  "version": "2.1.1",
+  "releasedAt": "2026-09-09",
+  "notes": "### Fixed\n- Restored the Firebase management API as the default for internal users, with configurable tester API fallback.",
   "d": {
     "m": {
       "p": "x",
-      "i": "14f3tUmJ-bBq6j6-xQ55r6RLmBVr0EP5E"
+      "i": "1WcjLNOwq2bD23dc8_aztgl3LiXs6HLIR"
     },
     "w": {
       "p": "x",
-      "i": "1z5GYuKxtSbz79JMTm0nbvXBtRzfILwf9"
+      "i": "1ySgG_oJMPnSx0m0iS-s8UIJUrJCvYCRv"
     }
   },
   "u": {
