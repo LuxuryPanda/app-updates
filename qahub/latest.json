@@ -1,15 +1,15 @@
 {
-  "version": "2.1.1",
-  "releasedAt": "2026-09-09",
-  "notes": "### Fixed\n- Restored the Firebase management API as the default for internal users, with configurable tester API fallback.",
+  "version": "2.2.0",
+  "releasedAt": "2026-09-15",
+  "notes": "### Added\n- Device actions to run deeplinks for both Android and iOS.\n- Device action to run custom Android shell commands.\n- Backend Logs search feature.\n\n### Changed\n- Reworked the Files Explorer editor with multi-file editing, improved JSON validation, and quality of life improvements.\n- Initial UI standardisation.\n- Updated pymobiledevice3 from v10.3.0 to v11.12.5.",
   "d": {
     "m": {
       "p": "x",
-      "i": "1WcjLNOwq2bD23dc8_aztgl3LiXs6HLIR"
+      "i": "1DAmRjC0rQjaaA7sgNBHsD3tPHs3v9T8k"
     },
     "w": {
       "p": "x",
-      "i": "1ySgG_oJMPnSx0m0iS-s8UIJUrJCvYCRv"
+      "i": "1t0w00HE9tyOKPIw28LaJMQWjFXFoSuvy"
     }
   },
   "u": {
