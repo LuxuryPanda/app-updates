@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
-  "releasedAt": "2026-09-22",
-  "notes": "### Added\n- Local crash reports with exception details, runtime data, and process stats.\n- Deeplinks to open and download Firebase releases directly from Slack.\n- Selectable stable, alpha, and beta update channels.\n- Initial Firebase project discovery for multi-game support.\n- TeamCity build start and completion notifications for selected users.\n\n### Changed\n- Updated the TeamCity iOS development workflow to use the Build \u0026 Deploy pipeline.\n- Improved release pages with a clearer device installation status, progress feedback, and actions.\n- Release layouts now preserve filters, pagination, downloads, and loaded commits when switching views.\n- Settings now protect unsaved changes when closing the app and save faster.\n- Reduced startup time and memory usage.",
+  "version": "2.4.0",
+  "releasedAt": "2026-09-29",
+  "notes": "### Added\n- Button to fetch notification users from the last 100 finished builds.\n- Option to match the app theme to the operating system\u0027s light or dark mode.\n- Initial 1Password support, with CLI setup and secret test access in Settings.\n\n### Fixed\n- Deeplinks reopened release pages after focus changes.\n- Returning to the app reset the selected page.\n- TeamCity notification users were lost after app restart.\n- Crash Reports button missing in production builds.",
   "d": {},
   "u": {
     "p": "x",
