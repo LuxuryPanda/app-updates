@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "releasedAt": "2026-09-29",
-  "notes": "### Added\n- Button to fetch notification users from the last 100 finished builds.\n- Option to match the app theme to the operating system\u0027s light or dark mode.\n- Initial 1Password support, with CLI setup and secret test access in Settings.\n\n### Fixed\n- Deeplinks reopened release pages after focus changes.\n- Returning to the app reset the selected page.\n- TeamCity notification users were lost after app restart.\n- Crash Reports button missing in production builds.",
+  "version": "2.5.0",
+  "releasedAt": "2026-10-06",
+  "notes": "### Added\n- MacOS menu bar icon with quick device actions.\n- Rename, move and delete actions in Files Explorer for Android and iOS.\n- Option to open Apple Device Hub from iOS device actions.\n- Option to open devices running iOS 27 or later in macOS Screen Sharing.\n- Advanced screen mirroring of physical devices running iOS 27 or later.\n- Build watching, with a notification when the build starts and when it finishes.\n- MCP tool \u0060list_build_configurations\u0060 to list the build configurations of the TeamCity project.\n- Forget button for disconnected devices.\n\n### Changed\n- Redesigned the Builds page, with a much simpler and intuitive UX.\n- MCP tool \u0060trigger_teamcity_build\u0060 to require \u0060buildConfigurationId\u0060. The \u0060platform\u0060 and \u0060buildType\u0060 arguments are removed. The tool accepts only ids from \u0060list_build_configurations\u0060.\n- Bundled pymobiledevice3 version from v11.12.5 to v11.20.1.\n\n### Fixed\n- Build times displaying with the time zone of the TeamCity server instead of the local time zone.\n- Cancelled builds showing as failed.\n- Devices with no name or model staying in the device list.",
   "d": {},
   "u": {
     "p": "x",
