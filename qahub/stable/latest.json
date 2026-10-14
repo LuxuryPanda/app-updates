@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
-  "releasedAt": "2026-10-13",
-  "notes": "### Added\n- Initial RevenueCat customer inspection and product catalog support.\n\n### Changed\n- Alpha and beta updates now include newer stable releases.\n- Numbered alpha and beta releases can share a base version.",
+  "version": "2.6.1",
+  "releasedAt": "2026-10-14",
+  "notes": "### Fixed\n- Stop action API compatibility to properly stop running builds.",
   "d": {},
   "u": {
     "p": "x",
