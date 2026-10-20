@@ -1,7 +1,7 @@
 {
-  "version": "2.6.1",
-  "releasedAt": "2026-10-14",
-  "notes": "### Fixed\n- Stop action API compatibility to properly stop running builds.",
+  "version": "2.7.0",
+  "releasedAt": "2026-10-20",
+  "notes": "### Added\n- Shared Preferences editing, multi-game and iOS support.\n- Android device actions to back up and restore app data.\n- Files Explorer multi-game support.\n\n### Changed\n- Builds page asks for confirmation before it starts a duplicate of a running or queued build.\n- Build launcher indicators use the active accent colour.",
   "d": {},
   "u": {
     "p": "x",
